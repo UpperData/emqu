@@ -1,0 +1,11 @@
+# Agregar usuario 
+Endpoint: /ACcOUnt/ADD
+json:
+    { 
+    "id":4,
+    "fullName":"Angel Diaz",
+    "email":"angel.elcampeon3@gmail.com",
+    "roleId":2,
+    "passw":"123456",
+    "isActived":true
+    }
